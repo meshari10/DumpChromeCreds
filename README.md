@@ -31,3 +31,7 @@
    ```powershell
     PowerShell.exe -File DumpChromeCreds.ps1 output.csv
 
+
+## Reference
+For more detailed information on extracting passwords from Chrome, you can refer to the article by James O'Neill: [Extracting Passwords and other secrets from Google Chrome, Microsoft Edge and other Chromium browsers with PowerShell](https://jhoneill.github.io/powershell/2020/11/23/Chrome-Passwords.html).
+
