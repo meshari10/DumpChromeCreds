@@ -2,7 +2,7 @@
 
 ## Overview
 
-`DumpChromeCreds.ps1` is a PowerShell script designed to extract and decrypt saved credentials from Google Chrome. It retrieves the user's login information, including usernames, passwords, and associated URLs, and exports this data to a CSV file. This tool can be useful for users who want to manage their saved credentials outside of the browser or for security assessments.
+`DumpChromeCreds.ps1` is a PowerShell script designed to extract and decrypt saved credentials from Google Chrome. It retrieves the user's login information, including usernames, passwords, and associated URLs, and exports this data to a CSV file.
 
 ## Features
 
