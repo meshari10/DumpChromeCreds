@@ -13,7 +13,6 @@
 
 ## Prerequisites
 
-- **PowerShell**: Ensure you have PowerShell installed (Windows, macOS, or Linux).
 - **PSSQLite Module**: The script will automatically install the `PSSQLite` module if it's not already available. If you want to manually install it, you can run the following command in PowerShell:
   ```powershell
   Install-Module -Name PSSQLite -Force -Scope CurrentUser
