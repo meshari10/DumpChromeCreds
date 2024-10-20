@@ -28,7 +28,7 @@
 2. **Open PowerShell: Open a PowerShell terminal with administrative privileges.**
 3. **Run the Script: Execute the script using the following command, replacing output.csv with your desired output file name:**
    ```powershell
-    PowerShell.exe -File DumpChromeCreds.ps1 output.csv
+    .\DumpChromeCreds.ps1 output.csv
 
 
 ## Reference
