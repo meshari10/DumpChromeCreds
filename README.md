@@ -7,7 +7,7 @@
 ## Features
 
 - Extracts saved usernames and passwords from Google Chrome's SQLite database.
-- Decrypts passwords encrypted with AES-GCM and DPAPI.
+- Decrypts passwords encrypted with AES-GCM.
 - Outputs the credentials in a formatted table in the console.
 - Exports the credentials to a specified CSV file.
 
