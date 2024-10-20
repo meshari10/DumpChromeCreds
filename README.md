@@ -12,7 +12,7 @@
 - Exports the credentials to a specified CSV file.
 
 ## Prerequisites
-
+- **PowerShell 7**
 - **PSSQLite Module**: The script will automatically install the `PSSQLite` module if it's not already available. If you want to manually install it, you can run the following command in PowerShell:
   ```powershell
   Install-Module -Name PSSQLite -Force -Scope CurrentUser
