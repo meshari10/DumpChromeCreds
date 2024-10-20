@@ -16,7 +16,7 @@
 - **PSSQLite Module**: The script will automatically install the `PSSQLite` module if it's not already available. If you want to manually install it, you can run the following command in PowerShell:
   ```powershell
   Install-Module -Name PSSQLite -Force -Scope CurrentUser
-
+  ```
 
 ## Usage
 
@@ -24,12 +24,13 @@
    ```bash
    git clone https://github.com/yourusername/DumpChromeCreds.git
    cd DumpChromeCreds
+   ```
 
 2. **Open PowerShell: Open a PowerShell terminal with administrative privileges.**
 3. **Run the Script: Execute the script using the following command, replacing output.csv with your desired output file name:**
    ```powershell
     .\DumpChromeCreds.ps1 output.csv
-
+   ```
 
 ## Reference
 For more detailed information on extracting passwords from Chrome, you can refer to the article by James O'Neill: [Extracting Passwords and other secrets from Google Chrome, Microsoft Edge and other Chromium browsers with PowerShell](https://jhoneill.github.io/powershell/2020/11/23/Chrome-Passwords.html).
